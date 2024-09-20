@@ -7,7 +7,8 @@ author: "0xReDrag0n"                     # for single entry
 ---
 
 ## Insecure Logging
-```
+
+```powershell
 adb install allsafe.apk
 ```
 
