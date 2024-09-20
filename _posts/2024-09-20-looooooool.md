@@ -1,6 +1,6 @@
 ---
-title: hello-world
-date: 2024-09-20 04:51:00 +0800
+title: "looooooool"
+date: 2024-09-20 08:51:00 +0000
 categories: [Android Security, Mobile Security]
 tags: [android, adb, insecure-logging, hardcoded-credentials, debugging, mobile-security, reverse-engineering]
 author: 0xReDrag0n
