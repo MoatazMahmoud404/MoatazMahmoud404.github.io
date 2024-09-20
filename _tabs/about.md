@@ -58,7 +58,7 @@ Information Technology Institute (ITI) (Remote)
 
 ## TECHNICAL SKILLS 
 
-- Write & Review Penetration Testing Reports.
+- **Reporting:** Writing and reviewing penetration testing reports.
 - **Network Pentesting:** Expertise in identifying and addressing network vulnerabilities.
 - **Web Application Pentesting:** In-depth knowledge of web security issues like XSS, SQLi, CSRF, RCE, SSRF, IDOR, LFI/RFI, CORS, SSTI, and Application Logic Vulnerabilities.
 - **Mobile Application Pentesting:** Experience with techniques for bypassing Root/Jailbreak Detection, SSL Pinning, exploiting Android components, and using tools such as Objection, Frida, and Medusa.
