@@ -21,7 +21,7 @@ I am a passionate penetration tester with a focus on cybersecurity and Red Team 
 
 ## EDUCATION 
 
-**Ahram Canadian University**  _(Oct. 2022 – Oct. 2026)_  
+**🍁 Ahram Canadian University**  _(Oct. 2022 – Oct. 2026)_  
 **BSc in Computer Science & AI | CGPA: 3.93** (Ranked 1st in Class)  
 6th of October City, Egypt  
 
@@ -76,8 +76,7 @@ Information Technology Institute (ITI) (Remote)
 
 **eJPTv2 (eLearnSecurity Junior Penetration Tester)** - _Studied_  
 **CCNA (Cisco Certified Network Associate)** - _Studied_  
-**C3SA (Cyber Security Analyst)** - CyberWarFare Labs, <a href="https://drive.google.com/file/d/1Z3AhhUvYYRdGZanQRsP2XYQG87DJ72j2/view?usp=sharing" target="_blank">_Credential_</a>
-usp=sharing)
+**C3SA (Cyber Security Analyst)** - CyberWarFare Labs, [_Credential_](https://drive.google.com/file/d/1Z3AhhUvYYRdGZanQRsP2XYQG87DJ72j2/view?usp=sharing)
 
 ### TryHackMe Certifications:
 - **Complete Beginner** - [_Credential_](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6VMIOCXKQA.png)
