@@ -1,5 +1,5 @@
 ---
-title: "Hello World!"
+title: hello-world
 date: 2024-09-20 04:51:00 +0800
 categories: [Android Security, Mobile Security]
 tags: [android, adb, insecure-logging, hardcoded-credentials, debugging, mobile-security, reverse-engineering]
