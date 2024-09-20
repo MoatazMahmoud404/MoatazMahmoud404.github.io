@@ -25,3 +25,6 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+
+# Hidden Blogs
+_posts/2024-09-20-hello-world.md
