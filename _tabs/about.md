@@ -12,22 +12,19 @@ order: 4
 Cairo, Egypt - [+201########] - [Email](mailto:Moataz404Mahmoud@gmail.com) - [LinkedIn](https://www.linkedin.com/in/0xmoataz/) - [GitHub](https://github.com/MoatazMahmoud404)
 
 ---
-
-## PROFILE
+## <i class="fas fa-user"></i> PROFILE
 
 I am a passionate penetration tester with a focus on cybersecurity and Red Team operations. I have experience finding and fixing security weaknesses in networks, web applications, and mobile platforms. With a solid background in programming and networking, I can carry out effective penetration tests. I also have experience in malware analysis, which helps me better protect digital systems and data.
 
 ---
-
-## EDUCATION 
+## <i class="fas fa-graduation-cap"></i> EDUCATION
 
 **🍁 Ahram Canadian University**  _(Oct. 2022 – Oct. 2026)_  
 **BSc in Computer Science & AI | CGPA: 3.93** (Ranked 1st in Class)  
 6th of October City, Egypt  
 
 ---
-
-## WORK EXPERIENCE
+## <i class="fas fa-briefcase"></i> WORK EXPERIENCE
 
 **Application Penetration Testing Intern**  _(Aug 2024 – Sep 2024)_  
 WE INNOVATE & ZeroSploit – ITI Knowledge City, New Administrative Capital (Hybrid)  
@@ -55,8 +52,7 @@ Information Technology Institute (ITI) (Remote)
 - Explored vulnerability assessments and implemented basic defensive measures in a virtual lab environment.
 
 ---
-
-## TECHNICAL SKILLS 
+## <i class="fas fa-code"></i> TECHNICAL SKILLS
 
 - **Reporting:** Writing and reviewing penetration testing reports.
 - **Network Pentesting:** Expertise in identifying and addressing network vulnerabilities.
@@ -71,8 +67,7 @@ Information Technology Institute (ITI) (Remote)
 - **Programming Languages:** Experience with C, C++, C#, .NET, Python, Bash, PHP.
 
 ---
-
-## COURSES & CERTIFICATIONS
+## <i class="fa-solid fa-stamp"></i> COURSES & CERTIFICATIONS
 
 **eJPTv2 (eLearnSecurity Junior Penetration Tester)** - _Studied_  
 **CCNA (Cisco Certified Network Associate)** - _Studied_  
@@ -106,8 +101,7 @@ Information Technology Institute (ITI) (Remote)
 - **Cyber Security Summer Course** - ITI, [_Credential_](https://drive.google.com/file/d/1zpJmbvz5IQ7FKTdIc4JyPWMPMQlncmZO/view?usp=drive_link)
 
 ---
-
-## LANGUAGES
+## <i class="fas fa-language"></i> LANGUAGES
 
 - **English:** Very Good  
 - **Arabic:** Native
