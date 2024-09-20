@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 0xReDrag0n
+  name: 🐲 0xReDrag0n
   email: Moataz404Mahmoud@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,8 @@ theme_mode: # [light | dark]
 cdn: "https://firebasestorage.googleapis.com/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar.jpg?alt=media&token=f6a849f2-4f78-4783-8fc3-011b6fa70dad"
+# avatar: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar.jpg?alt=media&token=f6a849f2-4f78-4783-8fc3-011b6fa70dad"
+avatar: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar2.png?alt=media&token=42aa0cd7-3cbd-4119-b31a-9f0f5634cd5e"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
