@@ -9,7 +9,7 @@ image:
     path: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar.jpg?alt=media&token=f6a849f2-4f78-4783-8fc3-011b6fa70dad"
     alt: 0xReDrag0n
 theme_color: "#3498db"
-published: false
+published: true
 ---
 
 ---
