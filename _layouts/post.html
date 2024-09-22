@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<style>
+  .pageviews {
+    display: flex;
+    align-items: center;
+    margin-top: 10px; /* Adjust spacing as needed */
+  }
+
+  .pageviews img {
+    margin-left: 5px; /* Space between the icon and counter */
+  }
+</style>
+
+<article class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      Posted {{ page.date | date: "%B %d, %Y" }} Updated {{
+      page.last_modified_at | date: "%B %d, %Y" }} {{ page.reading_time }} min
+      read
+    </p>
+    <!-- Page Views Counter -->
+    <div class="pageviews">
+      <em id="pv" class="pageviews">
+        <i class="fa-duotone"></i>
+      </em>
+      <img
+        style="width: inherit"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmoatazmahmoud404.github.io%2F{{ page.url }}&count_bg=%2379C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"
+        alt="Hits"
+      />
+    </div>
+  </header>
+
+  <div class="post-content">{{ content }}</div>
+</article>
