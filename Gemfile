@@ -12,3 +12,16 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+
+# plugins:
+#   - jekyll-compress-html
+#   - jekyll-assets
+#   - jekyll-google-analytics
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
+#   - jekyll-feed
+#   - jekyll-admin
+#   - jekyll-responsive-image
+#   - jekyll-picture-tag
+#   - jekyll-backup
