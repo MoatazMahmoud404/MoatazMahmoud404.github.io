@@ -176,6 +176,11 @@ collections:
     output: true
     sort_by: order
 
+# collections:
+#   posts:
+#     output: true
+#     sidebar_label: News
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -228,4 +233,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-# Google Analytics Tracking ID
+
+# plugins
+plugins:
+  - jekyll-sitemap

@@ -12,16 +12,8 @@ seo:
   description: "A brief description of the content."
   keywords: "jekyll, chirpy, blog, tutorial"
 published: true
-# pagination:
-#   enabled: true
-#   per_page: 1
-# sidebar:
-#   custom: true
-#   items:
-#     - label: "About"
-#       url: "/about"
-
 ---
+
 # Top 10 Mobile Risks - Final List 2016
 
 - [M1: Improper Platform Usage](https://owasp.org/www-project-mobile-top-10/2016-risks/m1-improper-platform-usage)
