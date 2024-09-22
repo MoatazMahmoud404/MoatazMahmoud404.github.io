@@ -11,7 +11,7 @@ seo:
   title: "SEO Optimized Title"
   description: "A brief description of the content."
   keywords: "jekyll, chirpy, blog, tutorial"
-  
+published: true
 # pagination:
 #   enabled: true
 #   per_page: 1
