@@ -58,17 +58,46 @@ Information Technology Institute (ITI) (Remote)
 ---
 ## <i class="fas fa-code"></i> TECHNICAL SKILLS
 
-- **Reporting:** Writing and reviewing penetration testing reports.
-- **Network Pentesting:** Expertise in identifying and addressing network vulnerabilities.
-- **Web Application Pentesting:** In-depth knowledge of web security issues like XSS, SQLi, CSRF, RCE, SSRF, IDOR, LFI/RFI, CORS, SSTI, and Application Logic Vulnerabilities.
-- **Mobile Application Pentesting:** Experience with techniques for bypassing Root/Jailbreak Detection, SSL Pinning, exploiting Android components, and using tools such as Objection, Frida, and Medusa.
-- **Reverse Engineering:** Proficient in analyzing and deconstructing software.
-- **Digital Forensics:** Skills in investigating and analyzing digital evidence.
-- **Malware Analysis Fundamentals:** Knowledge of basic malware analysis techniques.
-- **Linux & Windows Privilege Escalation:** Hands-on experience with various methods for escalating privileges on both Linux and Windows systems.
-- **Python for Penetration Testing:** Ability to write and utilize Python scripts for security testing.
-- **Networking Tools:** Proficient with network sniffers like Wireshark.
-- **Programming Languages:** Experience with C, C++, C#, .NET, Python, Bash, PHP.
+### **Reporting:**
+- Proficient in writing, reviewing, and delivering comprehensive penetration testing reports to various stakeholders.
+
+### **Network Penetration Testing:**
+- Expertise in identifying, analyzing, and mitigating network vulnerabilities across diverse infrastructures.
+- Proficient with tools such as Nmap, Nessus, and Wireshark for network scanning and analysis.
+
+### **Web Application Penetration Testing:**
+- In-depth knowledge of web vulnerabilities, including Cross-Site Scripting (XSS), SQL Injection (SQLi), Cross-Site Request Forgery (CSRF), Remote Code Execution (RCE), Server-Side Request Forgery (SSRF), Insecure Direct Object References (IDOR), Local/Remote File Inclusion (LFI/RFI), Cross-Origin Resource Sharing (CORS), Server-Side Template Injection (SSTI), and application logic flaws.
+- Experienced with OWASP methodologies and tools such as Burp Suite, OWASP ZAP, and SQLMap.
+
+### **Mobile Application Penetration Testing:**
+- Extensive experience in bypassing security mechanisms like Root/Jailbreak detection and SSL Pinning.
+- Expertise in exploiting Android app vulnerabilities and leveraging tools like Objection, Frida, and Medusa for analysis and exploitation.
+
+### **Reverse Engineering:**
+- Skilled in reverse engineering software to identify weaknesses and potential exploits.
+- Familiar with tools like IDA Pro, Ghidra, and OllyDbg for deconstructing binaries.
+
+### **Digital Forensics:**
+- Hands-on experience in conducting digital forensic investigations and analyzing digital evidence using tools like Autopsy and FTK Imager.
+
+### **Malware Analysis Fundamentals:**
+- Knowledgeable in malware behavior analysis and identification using static and dynamic analysis techniques.
+
+### **Linux & Windows Privilege Escalation:**
+- Practical experience in performing privilege escalation on both Linux and Windows platforms using techniques such as kernel exploits, misconfigurations, and password cracking.
+
+### **Python for Penetration Testing:**
+- Capable of writing and using custom Python scripts to automate security testing tasks, including web scraping, vulnerability scanning, and exploit development.
+
+### **Networking Tools:**
+- Proficient in using network sniffers like Wireshark for traffic analysis, packet capture, and deep protocol inspection.
+
+### **Programming Languages:**
+- Competent in several programming languages, including:
+  - **C, C++, C#** for low-level and software development.
+  - **.NET** for application development.
+  - **Python, Bash** for scripting and automation.
+  - **PHP** for web development and exploitation of web vulnerabilities.
 
 ---
 ## <i class="fa-solid fa-stamp"></i> COURSES & CERTIFICATIONS
