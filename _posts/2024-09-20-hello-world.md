@@ -8,7 +8,7 @@ image:
     path: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-banner2_1600x896.jpg?alt=media&token=525f3ccf-53c1-465a-a381-558cd39636e5"
     alt: 0xReDrag0n
 theme_color: "#3498db"
-published: true
+published: false
 ---
 
 ---

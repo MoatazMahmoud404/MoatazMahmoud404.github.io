@@ -12,7 +12,7 @@ seo:
   title: "SEO Optimized Title"
   description: "A brief description of the content."
   keywords: "jekyll, chirpy, blog, tutorial"
-published: true
+published: false
 ---
 
 # Top 10 Mobile Risks - Final List 2016
