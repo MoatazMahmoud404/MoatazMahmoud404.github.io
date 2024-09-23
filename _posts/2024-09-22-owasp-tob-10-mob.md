@@ -7,12 +7,12 @@ author: 0xReDrag0n
 author_bio: "This is a custom bio for the author."
 image:
     # path: "https://www.bugcrowd.com/wp-content/uploads/2024/05/2272018_BlogBanner-OWASPTop10_Opt2_051424.png"
-    path: "v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2024-09-22-owasp-tob-10-mob%2F2024-09-22-owasp-tob-10-mob-banner.png?alt=media&token=bb72673a-003c-44ee-ae42-08eb0108224e"
+    path: "v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2024-09-22-owasp-tob-10-mob%2F2024-09-22-owasp-tob-10-mob-banner.png?alt=media&token=f7bf3f32-9da6-4cdc-8d1e-73981428fe8e"
 seo:
   title: "SEO Optimized Title"
   description: "A brief description of the content."
   keywords: "jekyll, chirpy, blog, tutorial"
-published: false
+published: true
 ---
 
 # Top 10 Mobile Risks - Final List 2016

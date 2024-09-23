@@ -5,10 +5,10 @@ date: 2024-09-20 04:51:00 +0800
 # tags: [android, adb, insecure-logging, hardcoded-credentials, debugging, mobile-security, reverse-engineering]
 author: 0xReDrag0n
 image:         
-    path: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar.jpg?alt=media&token=781a2e6d-ce59-42c3-b160-cb2a5fb1ec4f"
+    path: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-banner2_1600x896.jpg?alt=media&token=525f3ccf-53c1-465a-a381-558cd39636e5"
     alt: 0xReDrag0n
 theme_color: "#3498db"
-published: false
+published: true
 ---
 
 ---
