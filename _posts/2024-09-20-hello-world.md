@@ -5,11 +5,11 @@ date: 2024-09-20 04:51:00 +0800
 # tags: [android, adb, insecure-logging, hardcoded-credentials, debugging, mobile-security, reverse-engineering]
 author: 0xReDrag0n
 math: true
-image:
+image:         
     path: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar.jpg?alt=media&token=f6a849f2-4f78-4783-8fc3-011b6fa70dad"
     alt: 0xReDrag0n
 theme_color: "#3498db"
-published: true
+published: false
 ---
 
 ---
