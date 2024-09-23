@@ -102,8 +102,8 @@ theme_mode: # [light | dark]
 cdn: "https://firebasestorage.googleapis.com/"
 
 # the avatar on sidebar, support local or CORS resources
-# avatar: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar.jpg?alt=media&token=f6a849f2-4f78-4783-8fc3-011b6fa70dad"
-avatar: "v0/b/xredrag0n.appspot.com/o/0xReDrag0n-avatar2.png?alt=media&token=42aa0cd7-3cbd-4119-b31a-9f0f5634cd5e"
+# avatar: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar.jpg?alt=media&token=781a2e6d-ce59-42c3-b160-cb2a5fb1ec4f"
+avatar: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar2.png?alt=media&token=2ddae18e-9222-46c3-b54b-866ec5f720c0"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
