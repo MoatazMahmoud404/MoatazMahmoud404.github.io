@@ -13,7 +13,7 @@ seo:
   description: "A brief description of the content."
   keywords: "jekyll, chirpy, blog, tutorial"
 published: false
----
+---    
 
 # Top 10 Mobile Risks - Final List 2016
 
