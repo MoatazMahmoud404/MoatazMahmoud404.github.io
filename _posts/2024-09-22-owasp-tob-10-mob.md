@@ -294,7 +294,7 @@ Extraneous Functionality refers to unintended or unnecessary features, debug mod
 
 ---
 
-# Resources Section
+## Resources
 
 - [owasp.org](https://owasp.org/www-project-mobile-top-10/2016-risks/)
 - [mas.owasp.org](https://mas.owasp.org/)
