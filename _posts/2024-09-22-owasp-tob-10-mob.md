@@ -220,7 +220,7 @@ Client Code Quality refers to weaknesses in the client-side code of an applicati
 > Improving client code quality reduces the risk of exposing critical data or allowing attackers to manipulate the application, ensuring a stronger security posture.
 {: .prompt-tip }
 
-## A08: Code Tampering
+## M08: Code Tampering
 
 Code Tampering refers to unauthorized modifications made to an application’s code or executable files, which can introduce vulnerabilities, alter functionality, or compromise data integrity. Attackers may exploit these modifications to gain unauthorized access, execute malicious code, or manipulate application behavior. Common issues include:
 
@@ -244,7 +244,7 @@ Code Tampering refers to unauthorized modifications made to an application’s c
 > Protecting against code tampering is crucial to maintain the integrity and security of applications, ensuring they function as intended without unauthorized modifications.
 {: .prompt-tip }
 
-## A09: Reverse Engineering
+## M09: Reverse Engineering
 
 Reverse Engineering refers to the process where attackers analyze an application’s code or binary to understand its functionality, discover vulnerabilities, or extract sensitive information. This can lead to the bypassing of security measures, theft of intellectual property, or the development of exploits. Common reverse engineering techniques include disassembling the code, decompiling binaries, and analyzing the application’s behavior in a runtime environment. Common issues include:
 
@@ -268,7 +268,7 @@ Reverse Engineering refers to the process where attackers analyze an application
 > Protecting your application from reverse engineering reduces the risk of attackers exploiting its code, tampering with functionality, or stealing intellectual property.
 {: .prompt-tip }
 
-## A10: Extraneous Functionality
+## M10: Extraneous Functionality
 
 Extraneous Functionality refers to unintended or unnecessary features, debug modes, or hidden functionalities within an application that can be exploited by attackers. These often include backdoors, debug settings left in production, or legacy code that developers forgot to remove, which may provide unauthorized access or expose sensitive information. Common issues include:
 
