@@ -1,3 +1,6 @@
+future: false
+drafts: false
+
 # The Site Configuration
 
 # Import the theme
@@ -14,19 +17,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 0xReDrag0n # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Penetration Tester # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I am a passionate penetration tester with a focus on cybersecurity and Red Team operations. I have experience finding and fixing security weaknesses in networks, web applications, and mobile platforms. With a solid background in programming and networking, I can carry out effective penetration tests. I also have experience in malware analysis, which helps me better protect digital systems and data.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://moatazmahmoud404.github.io"
+url: "https://MoatazMahmoud404.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: MoatazMahmoud404 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,15 +37,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: 🐲 0xReDrag0n
+  email: Moataz404Mahmoud@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/MoatazMahmoud404 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/0xmoataz
 
 # Site Verification Settings
 webmaster_verifications:
@@ -59,7 +62,8 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    # id: # fill in your Google Analytics ID
+    id: G-CG5XPYMWC5
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -98,6 +102,7 @@ theme_mode: # [light | dark]
 cdn: "https://firebasestorage.googleapis.com/"
 
 # the avatar on sidebar, support local or CORS resources
+# avatar: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar.jpg?alt=media&token=781a2e6d-ce59-42c3-b160-cb2a5fb1ec4f"
 avatar: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar2.png?alt=media&token=2ddae18e-9222-46c3-b54b-866ec5f720c0"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
@@ -171,6 +176,11 @@ collections:
     output: true
     sort_by: order
 
+# collections:
+#   posts:
+#     output: true
+#     sidebar_label: News
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -212,9 +222,8 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - purgecss.js
-  - rollup.config.js
-  - "package*.json"
+  - "*.config.js"
+  - package*.json
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -224,3 +233,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# plugins
+plugins:
+  - jekyll-sitemap
