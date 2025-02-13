@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://firebasestorage.googleapis.com/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-avatar2.png?alt=media&token=2ddae18e-9222-46c3-b54b-866ec5f720c0"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
