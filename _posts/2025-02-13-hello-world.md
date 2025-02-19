@@ -8,10 +8,10 @@ image:
     path: "v0/b/xredrag0n.appspot.com/o/0xReDragon-Blog%2F0xReDrag0n-banner2_1600x896.jpg?alt=media&token=525f3ccf-53c1-465a-a381-558cd39636e5"
     alt: 0xReDrag0n
 theme_color: "#3498db"
-published: true
+published: false
 --- 
 
----
+{% include pageviews.html %}
 
 ## Header 02 | Example 01
 - Moataz Mahmoud aka `0xReDrag0n` head02.
@@ -59,15 +59,5 @@ published: true
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
 
----
-
-<!-- Chirpy Comment Widget -->
-<!-- {% include comments.html %} -->
-<!-- <script defer src="https://chirpy.dev/bootstrapper.js" data-chirpy-domain="moatazmahmoud404.github.io"></script>
-<div
-  data-chirpy-theme="system"
-  data-chirpy-comment="true"
-  id="chirpy-comment"
-></div> -->
-<!-- --------------------- -->
-
+{% include comments.html %}
+{% include google-analytics.html %}
