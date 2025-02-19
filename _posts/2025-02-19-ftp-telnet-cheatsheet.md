@@ -331,7 +331,7 @@ python script.py <TARGET_IP> <USERNAME> <PASSWORD_LIST>
 
 💡 **Pro Tip**: If you gain FTP access, try checking for **hidden files** (`ls -a`) or **misconfigured write permissions** (attempt to upload a file). 🚀
 
-### **FTP is insecure by design!** Always prefer **SFTP (SSH-based)** or **FTPS (TLS-encrypted).** 🚀
+- **FTP is insecure by design!** Always prefer **SFTP (SSH-based)** or **FTPS (TLS-encrypted).** 🚀
 
 {% include comments.html %}
 {% include analytics.html %}
