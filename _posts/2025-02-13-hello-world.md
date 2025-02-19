@@ -62,11 +62,12 @@ published: true
 ---
 
 <!-- Chirpy Comment Widget -->
-<script defer src="https://chirpy.dev/bootstrapper.js" data-chirpy-domain="moatazmahmoud404.github.io"></script>
+<!-- {% include comments.html %} -->
+<!-- <script defer src="https://chirpy.dev/bootstrapper.js" data-chirpy-domain="moatazmahmoud404.github.io"></script>
 <div
   data-chirpy-theme="system"
   data-chirpy-comment="true"
   id="chirpy-comment"
-></div>
+></div> -->
 <!-- --------------------- -->
 
