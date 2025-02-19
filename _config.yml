@@ -59,6 +59,9 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+google_analytics:
+  id: "G-CG5XPYMWC5"
+
 # Web Analytics Settings
 analytics:
   google:

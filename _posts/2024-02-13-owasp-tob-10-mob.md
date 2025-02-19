@@ -302,4 +302,4 @@ Extraneous Functionality refers to unintended or unnecessary features, debug mod
 - [mas.owasp.org](https://mas.owasp.org/)
 
 {% include comments.html %}
-{% include google-analytics.html %}
+{% include analytics.html %}

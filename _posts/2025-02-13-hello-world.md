@@ -60,4 +60,4 @@ published: false
 {: .prompt-danger }
 
 {% include comments.html %}
-{% include google-analytics.html %}
+{% include analytics.html %}
