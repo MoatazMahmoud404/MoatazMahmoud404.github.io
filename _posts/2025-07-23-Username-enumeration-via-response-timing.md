@@ -87,9 +87,6 @@ By comparing the response times for the `wiener` username and other payloads, we
 
 **Valid username found:** `ak`
 
-> **Info:** The lab provides both candidate usernames and passwords. Make sure to include the known user `wiener` in your enumeration attempts.
-{: .prompt-info }
-
 ---
 
 ## Step 3: Brute-Forcing the Password
@@ -105,9 +102,6 @@ A successful login attempt will result in a 302 redirect status code.
 *Figure 6: Successful login detected by 302 redirect*
 
 **Valid password found:** `7777777`
-
-> **Warning:** After several failed login attempts, your IP address may be temporarily blocked. Manipulating the `X-Forwarded-For` header helps you avoid this restriction.
-{: .prompt-warning }
 
 ---
 
