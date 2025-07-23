@@ -16,9 +16,8 @@ published: true
 
 {% include pageviews.html %}
 
-# Username Enumeration via Response Timing (PortSwigger Lab)
-
 **Lab:** [Username enumeration via response timing](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing)
+
 **Difficulty:** Practitioner
 
 This walkthrough demonstrates how to exploit username enumeration vulnerabilities using response timing, as featured in PortSwigger's Web Security Academy. The lab also introduces IP-based brute-force protection, which we will bypass using HTTP header manipulation.
