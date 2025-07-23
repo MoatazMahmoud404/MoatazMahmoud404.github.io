@@ -10,7 +10,7 @@ image:
 seo:
   title: "PortSwigger Lab | Username Enumeration via Response Timing"
   description: "Step-by-step guide to exploiting username enumeration via response timing and bypassing IP-based brute-force protection in PortSwigger's Web Security Academy."
-  keywords: [username enumeration, timing attack, brute force, X-Forwarded-For, PortSwigger, web security]
+  keywords: [PortSwigger, Write-ups]
 published: true
 ---
 
