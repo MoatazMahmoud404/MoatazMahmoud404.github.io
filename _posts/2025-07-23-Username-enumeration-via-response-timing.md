@@ -73,10 +73,10 @@ To enumerate valid usernames, set the first position in Burp Suite Intruder for 
 {: .prompt-tip }
 
 ![Burp Suite Intruder setup for username enumeration](https://firebasestorage.googleapis.com/v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2025-07-23-Username-enumeration-via-response-timing%2Fscreen-02.png?alt=media&token=83299eef-b901-4f8f-924b-ca687a83422b)
-*Figure 2: Configuring Burp Suite Intruder for username enumeration*
+*Figure 2: Configuring Burp Suite Intruder for X-Forwarded-For*
 
 ![Response timing analysis in Burp Suite](https://firebasestorage.googleapis.com/v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2025-07-23-Username-enumeration-via-response-timing%2Fscreen-03.png?alt=media&token=fb56bec3-a075-4233-bbac-fec6cdb8fc26)
-*Figure 3: Analyzing response times to identify valid usernames*
+*Figure 3: Configuring Burp Suite Intruder for username enumeration*
 
 By comparing the response times for the `wiener` username and other payloads, we notice that one of the usernames (`ak`) produces a similar response time to the known valid user. This indicates that `ak` is a valid username.
 
