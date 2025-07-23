@@ -1,14 +1,14 @@
 ---
-title: "Username Enumeration via Response Timing (PortSwigger Lab Walkthrough)"
+title: "PortSwigger Lab | Username Enumeration via Response Timing"
 date: 2025-07-23
 categories: [Web Security, PortSwigger]
 tags: [username enumeration, brute force, timing attack, burp suite, X-Forwarded-For]
 author: 0xReDrag0n
 author_bio: "Offensive Security Enthusiast & Blogger"
 image:
-  path: v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2025-07-23-Username-enumeration-via-response-timing%2Fbanner.jpg?alt=media&token=25f2f340-e7ef-4ebc-8000-466e2d022ded
+  path: v0/b/xredrag0n.appspot.com/o/Attachment-Posts%2FPost-2025-07-23-Username-enumeration-via-response-timing%2Fbanner.jpg?alt=media&token=eb30c634-7d1f-4f0e-adc6-b4b8da5dfdab
 seo:
-  title: "Username Enumeration via Response Timing | PortSwigger Lab Walkthrough"
+  title: "PortSwigger Lab | Username Enumeration via Response Timing"
   description: "Step-by-step guide to exploiting username enumeration via response timing and bypassing IP-based brute-force protection in PortSwigger's Web Security Academy."
   keywords: [username enumeration, timing attack, brute force, X-Forwarded-For, PortSwigger, web security]
 published: true
