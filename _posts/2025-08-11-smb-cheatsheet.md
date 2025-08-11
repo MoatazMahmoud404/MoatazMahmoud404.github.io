@@ -1,7 +1,6 @@
 ---
 title: "SMB (Server Message Block) Cheatsheet"
 date: 2025-08-11
-# slug: "smb-cheatsheet"
 categories: ["Cybersecurity", "Penetration Testing", "Network Security"]
 tags: ["SMB", "Windows", "Network Security", "Penetration Testing", "Metasploit", "Nmap", "SMBMap", "Enum4Linux", "Cheatsheet"]
 author: 0xReDrag0n

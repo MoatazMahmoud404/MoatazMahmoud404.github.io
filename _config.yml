@@ -240,3 +240,4 @@ jekyll-archives:
 # plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
